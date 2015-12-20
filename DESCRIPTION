@@ -1,0 +1,10 @@
+Package: jrodriguez
+Type: Package
+Title: Un Ejemplo De Paquete En R
+Version: 0.1
+Date: 2015-12-20
+Author: Javier Rodriguez
+Maintainer: <xmezco@gmail.com>
+Description: Es el ejercicio opcional de las practicas de preparación de datos con R de Carlos Gil Bellosta
+License: CC
+LazyData: TRUE
